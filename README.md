@@ -1,3 +1,11 @@
-VimCrypt~01!¸' ùTƒùÙß(†şNÅ(·Æœ·{ásSçÏ—DM7È*(eNÕ‘“§ ¦¦¥Oüµ|RğBëì”Ì–5·òÑ2°Îì¤$ËµÂ±™‚£¤¥Ôn¾¡P—3q'
-µr[e}‹`6Œà‡µ•’…›bçî“»‡Ëñ¾†Ø¡¸ùyËv=4á¹aÊE;	c‹›øŠwpÌÀÛî%a­v©@ÕâÜ\NM˜ÈÖÆã±R£wwUƒ–˜…[9—Pô¹è]6
-9*bdA.’ºxàTzñDÒã&Y‘+§U÷˜êdõ†(ûæŸEû§[ü]ƒf&­3 èTÍSeË¸· ¶é3ùÜÙTºf°æm+wB±`ÔãĞÆJñéìUr{CŸÜ7ŠÆ±Â–ú¼Ë»
+1. git config --global user.name "sdas13"
+2. git config --global user.email "s.das001@yahoo.com"
+3. git clone https link
+4. vim README.md(:x/:q)
+5. git status
+6. git add #filename
+7. git commit -m #message
+8. git log
+9. git remote add origin https link
+10. git push -u origin master
+11. touch test.txt
